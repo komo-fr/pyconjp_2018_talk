@@ -3,6 +3,7 @@
 - Slide: https://bit.ly/2O4I7kw
 - Sample Code: (Comming Soon!) 
 - Video: https://www.youtube.com/watch?v=HuooryV1uJI
+- Article: [CodeZine | PyCon JP 2018 ひろがるPython」登壇者座談会 ～わたしのPythonのひろげかた～](https://codezine.jp/article/detail/11031)
 - Twitter: [@komo_fr](https://twitter.com/komo_fr)
 
 <a href="https://bit.ly/2O4I7kw"><img src="https://user-images.githubusercontent.com/31801148/45918482-99ea4480-bec2-11e8-95c9-b8f1aaaed4fa.png"></a>
