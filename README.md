@@ -2,7 +2,7 @@
 ## Interactive Network Visualization using Python 〜 NetworkX + BokehでPEPの参照関係を可視化する
 - Slide: https://bit.ly/2O4I7kw
 - Sample Code: (Comming Soon!) 
-- Video: https://www.youtube.com/watch?v=HuooryV1uJI
+    * 近日中（2018.10内）に予定されているBokeh 1.0のリリースに伴いAPIが変わることが見込まれるため、一旦公開を保留しています
 - Article: [CodeZine | PyCon JP 2018 ひろがるPython」登壇者座談会 ～わたしのPythonのひろげかた～](https://codezine.jp/article/detail/11031)
 - Twitter: [@komo_fr](https://twitter.com/komo_fr)
 
